@@ -1,0 +1,6 @@
+IBM
+XOM
+FB
+SPY
+GOOG
+INTC

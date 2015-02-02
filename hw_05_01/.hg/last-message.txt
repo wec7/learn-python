@@ -1,1 +1,1 @@
-add-strategy
+add-output
